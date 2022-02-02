@@ -10,6 +10,7 @@
 
 * https://webkitgtk.org/reference/webkit2gtk/stable/index.html \
 * https://docs.gtk.org/gio/
+* https://docs.gtk.org/gio/class.TlsCertificate.html
 
 ## x509 client certificate auth
 
